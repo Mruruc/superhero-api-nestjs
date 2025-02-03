@@ -1,0 +1,5 @@
+application:
+  name: 'Humble Superhero API'
+  port: 8080
+  api_version: /api/v1
+
